@@ -4,3 +4,4 @@ devops using docker for install databases, services ...
 # Elasticsearch
 # Mongodb
 # Redis
+# Selenium Server
